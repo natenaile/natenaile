@@ -1,6 +1,6 @@
 ### Hi there, I'm [Natenaile Shiferaw](https://natenaile.github.io/) 👋
 
-I am a 3rd-year Computer Science and Engineering (Data Science) student at [Cv Raman Global University](https://cgu-odisha.ac.in/), India. I'm driven by passion and eager to secure an internship, where I can apply my theoretical knowledge and hands-on experience to advance innovative projects.
+I am a 3rd-year Computer Science and Engineering (Data Science) student at [C.V. Raman Global University](https://cgu-odisha.ac.in/), India. I'm driven by passion and eager to secure an internship, where I can apply my theoretical knowledge and hands-on experience to advance innovative projects.
 
 **My Reseach Interest**:
 - Machine learning
