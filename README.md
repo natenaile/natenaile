@@ -55,6 +55,9 @@ A 4th-year Computer Science and Engineering (Data Science) student at [C.V. Rama
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/natenaile-shiferaw-75884b260)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/natenaile_asmamaw?utm_source=qr&igshid=OGIxMTE0OTdkZA==)
+[<img src="https://img.shields.io/badge/Email-natenaileshiferaw1%40gmail.com-%23333.svg?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:natenaileshiferaw1@gmail.com)&nbsp;
+
+
+
 </p>
+
