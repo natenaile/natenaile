@@ -55,7 +55,7 @@ A 4th-year Computer Science and Engineering (Data Science) student at [C.V. Rama
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/Email-%23E0E0E0.svg?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:natenaileshiferaw1@gmail.com)&nbsp;
+[<img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:natenaileshiferaw1@gmail.com)&nbsp;
 
 
 </p>
