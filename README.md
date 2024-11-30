@@ -1,6 +1,6 @@
 ### Hi there, I'm Natenaile Shiferaw 👋
 
-A 4th-year Computer Science and Engineering (Data Science) student at [C.V. Raman Global University](https://cgu-odisha.ac.in/), India. I'm driven by passion and eager to secure an internship, where I can apply my theoretical knowledge and hands-on experience to advance innovative projects.
+A 4th-year Computer Science and Engineering (Data Science) student at [C.V. Raman Global University](https://cgu-odisha.ac.in/), India. 
 
 **My Research Interest**:
 - Computer vision
@@ -20,12 +20,15 @@ A 4th-year Computer Science and Engineering (Data Science) student at [C.V. Rama
 
 #### ML/DL
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
+
 
 #### Database
 
