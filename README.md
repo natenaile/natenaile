@@ -1,15 +1,15 @@
-### Hi there, I'm [Natenaile Shiferaw](https://natenaile.github.io/) 👋
+### Hi there, I'm [Natenaile Shiferaw]) 👋
 
 A 4th-year Computer Science and Engineering (Data Science) student at [C.V. Raman Global University](https://cgu-odisha.ac.in/), India. I'm driven by passion and eager to secure an internship, where I can apply my theoretical knowledge and hands-on experience to advance innovative projects.
 
 **My Research Interest**:
-- Machine learning
-- Deep Learning
 - Computer vision
-- Natural language processing 
-- Neural Machine Translation
-- Artificial Intelligence
-- Data Science
+- Generative Modeling
+- 3D Reconstruction
+- Adversarial Networks 
+- Generative Diffusion Models
+
+
 
 ## Skills:
 
