@@ -1,16 +1,3 @@
-### Hi there, I'm Natenaile Shiferaw 👋
-
-A 4th-year Computer Science and Engineering (Data Science) student at [C.V. Raman Global University](https://cgu-odisha.ac.in/), India. 
-
-**My Research Interest**:
-- Computer vision
-- Generative Modeling
-- 3D Reconstruction
-- Adversarial Networks 
-- Generative Diffusion Models
-
-
-
 ## Skills:
 
 #### Languages:
