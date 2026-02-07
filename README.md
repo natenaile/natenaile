@@ -1,7 +1,12 @@
-cat << 'EOF' > README.md
-# Natenaile Asmamaw Shiferaw
+# Hello 👋
 
-I am an Erasmus Mundus Joint Master’s student in **Intelligent Photonics for Security, Reliability, Sustainability and Safety (iPSRS)**. My academic background is in **Computer Science and Engineering**, with strong interests at the intersection of **computer vision**, **machine learning**, and **computational imaging**.
+I'm currently an **Erasmus Mundus master’s student in Intelligent Photonics for Security, Reliability, Sustainability and Safety (iPSRS)**.  
+The program is available at: [master-photonics4security.eu](https://www.master-photonics4security.eu/).
+
+My interests include **computer vision**, **computational imaging**, and **machine learning**, with a focus on vision-based perception and data-driven imaging systems.
+
+Thanks for visiting my GitHub.
+
 ## Skills:
 
 #### Languages:
