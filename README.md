@@ -1,7 +1,6 @@
 # Hello 👋
 
-I'm currently an **Erasmus Mundus master’s student in Intelligent Photonics for Security, Reliability, Sustainability and Safety (iPSRS)**.  
-The program is available at: [master-photonics4security.eu](https://www.master-photonics4security.eu/).
+I'm currently an **Erasmus Mundus master’s student in [Intelligent Photonics for Security, Reliability, Sustainability and Safety (iPSRS)](https://www.master-photonics4security.eu/)** with a background in **Computer Science and Engineering**.
 
 My interests include **computer vision**, **computational imaging**, and **machine learning**, with a focus on vision-based perception and data-driven imaging systems.
 
