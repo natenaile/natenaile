@@ -2,8 +2,7 @@
 
 I'm currently an **Erasmus Mundus master’s student in [Intelligent Photonics for Security, Reliability, Sustainability and Safety (iPSRS)](https://www.master-photonics4security.eu/)** with a background in **Computer Science and Engineering**.
 
-My interests include **computer vision**, **computational imaging**, and **machine learning**.
-
+My background is in computer vision, with a strong foundation in machine learning. I am currently interested in computational imaging, 3D vision, and diffusion models.
 Thanks for visiting my GitHub.
 
 ## Skills:
