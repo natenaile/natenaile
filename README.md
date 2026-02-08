@@ -48,9 +48,15 @@ Thanks for visiting my GitHub.
 
 ## Connect with me:
 
-<p align = "center">
+<p align="center">
+  <a href="mailto:natenaileshiferaw1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/natenaile-asmamaw-shiferaw-75884b260/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-[<img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:natenaileshiferaw1@gmail.com)&nbsp;
 
 
 </p>
